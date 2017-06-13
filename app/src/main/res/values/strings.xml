@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App and Activities -->
+    <string name="app_name">Wi-Fi Chat</string>
+    <string name="title_activity_chat">Чат</string>
+
+    <!-- Menus -->
+    <string name="disconnect">Отключение</string>
+
+    <!-- Buttons -->
+    <string name="go_to_settings_button">Перейти к настройкам</string>
+    <string name="send_button">Send</string>
+
+    <!-- TextView -->
+    <string name="go_to_settings_text">Нажмите на изображение выше, чтобы перейти к настройкам и подключить свое устройство к другим через Wifi-Direct</string>
+
+    <!-- EditTexts -->
+    <string name="set_chat_name">Пожалуйста выбирите имя в чате</string>
+    <string name="enter_text">Введите сообщение</string>
+
+
+</resources>
